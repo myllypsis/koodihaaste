@@ -1,0 +1,14 @@
+.screen{
+  margin: auto;
+  text-align: center;
+}
+#calculate{
+  margin-bottom: 20px
+}
+.end_jargon_div{
+  display: none;
+  font-weight: 700
+}
+.result{
+  font-size: 2rem
+}
